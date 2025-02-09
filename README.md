@@ -1,39 +1,34 @@
-# [Project Name] 🎯
+# [FETCHKART] 🎯
 
 
-## Basic Details
-### Team Name: [Name]
+## FetchKart is a website that helps shoppers navigate large physical stores to quickly find products .Using HTML and CSS ,it provides an easy-to-use interface for fast product search and store navigation ,enhancing the shopping experience . 
+### Team Name: [HACKVOK]
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: [ELIZABETH PG] - [SCMS]
+- Member 2: [ANAGHA BABU] -  [SCMS]
+- Member 3: [ARDRA P LAL] -  [SCMS]
 
 ### Hosted Project Link
 [mention your project hosted project link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+[FetchKart is a website that helps users easily navigate and find products,making the shopping experience faster and more convenient.]
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+[FetchKart solves the problem of navigating large or crowded physical stores,helping shoppers locate specific products quickly and efficiently ,reducing frustration and time spent searching.]
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+[FetchKart is like a treasure map for shoppers! it guides you straight to the products you're looking for,turning the hunt for items into a quick ,fun adventure with no more wandering around the store.]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- [HTML]
+- [CSS]
+- [Liabraries used]
+- [Visual studio code]
 
 ### Implementation
 For Software:
